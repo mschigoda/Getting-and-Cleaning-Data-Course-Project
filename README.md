@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-Course-Project: README
+# Getting and Cleaning Data Course Project: README
 
 The purpose of this repository is to complete the final project for the Getting and Cleaning Data course on Coursera.
 
